@@ -1,7 +1,27 @@
 body {
-    background: #fafafa;
+    background: #000000;
   }
   
+  .title {
+    width: 100%;
+    font-size: 80px;
+    font-style: oblique;
+    font-weight: bold;
+    color:darkslateblue;
+    text-align: center;
+    background-color: black;
+    border: 8px solid darkblue;
+  }
+
+  .f5{
+    color: purple;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    margin-top: 50px;
+
+  }
+
   .dino {
     position: absolute;
     bottom: 0;
@@ -21,9 +41,13 @@ body {
   
   .game-over {
     text-align: center;
-    color: #666;
-    margin: 50px 0;
-    font-family: arial;
+    color: purple;
+    margin: 150px;
+    margin-top:0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    background-image: url(/bw1.png);
+    width: 70%;
   }
   
   @keyframes slideright {
