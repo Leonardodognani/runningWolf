@@ -6,4 +6,6 @@
 * Pretendo melhorar com o tempo com novas ideias, como placar, obstáculos, tela inicial e mais movimentos;
 * Como acabou saindo outro jogo, dei um nome próprio.
 
-:rocket: :rocket: :rocket:
+# :wolf:
+
+# :rocket: :rocket: :rocket:
