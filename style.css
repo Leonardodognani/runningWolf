@@ -13,14 +13,6 @@ body {
     border: 8px solid darkblue;
   }
 
-  .f5{
-    color: purple;
-    text-align: center;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 50px;
-    margin-top: 50px;
-
-  }
 
   .dino {
     position: absolute;
